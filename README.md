@@ -1,6 +1,8 @@
 # Movie analysis Template
 
 This is a practice of the movie analysis project
+![Uploading image.png…]()
+
 
 - The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
 
